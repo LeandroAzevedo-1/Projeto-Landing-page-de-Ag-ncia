@@ -1,5 +1,2 @@
-# Projeto-Landing-page-de-Ag-ncia
-
-Projeto criado usando Display Grid e Display Felx 
-
-Projeto responsivo 
+# landing-page-com-grid-agencia-xyz
+Estrutura inicial do Projeto de Landing Page com Grid do curso DevQuest.
